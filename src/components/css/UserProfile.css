@@ -1,0 +1,94 @@
+.form{
+    margin-left: 15px;
+    background-color: white;
+    height: 500px;
+    width: 800px;
+    border-radius: 15px;
+}
+
+.content1{
+    background-color: purple;
+    height: 80px;
+    width: 770px;
+    color: white;
+    border-radius: 7px;
+    margin-top: -3%;
+    margin-left: 2%;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.textheading{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: -5px;
+}
+
+.textheading1{
+    margin-top: 5px;
+    font-size: 12px;
+    margin-left: 5%;
+}
+
+.inputfield{
+    margin-top: 10px;
+}
+
+.textfield_company{
+    width: 100px;
+}
+.form-control1 {
+    margin-left: 20px;
+    margin-top: 45px;
+    border:0;
+    outline: none;
+    box-shadow: none;
+    background-color: transparent;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 5px;
+}
+
+.form-control2{
+    margin-left: 20px;
+    margin-top: 45px;
+    border:0;
+    outline: none;
+    box-shadow: none;
+    background-color: transparent;
+    border-bottom: 1px solid #d3d3d3;
+    padding-bottom: 5px;
+    width: 92%;
+}
+
+.aboutMe{
+    margin-left: 20px;
+    color: rgba(129, 128, 128, 0.897);
+    margin-top: 7px;
+    font-size: 14px;
+}
+
+.aboutMe_content{
+    margin-left: 20px;
+    color: rgba(129, 128, 128, 0.897);
+    margin-top: 45px;
+    font-size: 12px;
+}
+
+.btn{
+    background-color: purple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 20px ;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: rebeccapurple;
+}
